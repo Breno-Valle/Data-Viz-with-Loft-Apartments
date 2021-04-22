@@ -187,6 +187,8 @@ Data visualization from São Paulo Loft Properties (Housing Market)
 
 4- Final Thoughts:
 
-    This project can provide a benefit the to business with a better understanding of the Loft situation in São Paulo and providing insights to the future steps of the company. Of course there is a lot of good explorations that could be done and an infinity of ideas that could come from it. If you get interested by this dataset, project or ideas contact me, i will be glad to help you, and feel free to use all the notebook if you want.
+   This project can provide a benefit the to business with a better understanding of the Loft situation in São Paulo and providing insights to the future steps of the company.
+   Of course there is a lot of good explorations that could be done and an infinity of ideas that could come from it.
+   If you get interested by this dataset, project or ideas contact me, i will be glad to help you, and feel free to use all the notebook if you want.
 
 
