@@ -7,7 +7,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
   Loft is a digital plataform that uses tecnology to simplify the 
   purchase and the sale of properties fast and easy. Above it, i 
   created these project to analyze and brings the Loft data to our eyes.
-  In that way i imagine two problems that could apper into their busness.
+  In that way i imagine two problems that could apper into their business.
   
   Those questions are:
         
@@ -53,7 +53,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
       
       (those pictures are only a small part of the hole process. Go to the notebook for more graphs, insights and workflow process)
       
-  1-	"Overview by all the Loft properties"
+  A-	"Overview by all the Loft properties"
     
     Here we can go through an overview of all the Loft properties. Their distribution across the spaces of the city,
       the number of properties in each district and some important features to discribe those apartments.
@@ -84,7 +84,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
    ![overview heatmap](https://user-images.githubusercontent.com/80376071/115736203-7b41d800-a361-11eb-8eb7-8663946e2421.PNG)
 
 
-  2-	"Rentable Loft's Locations"
+  B-	"Rentable Loft's Locations"
       
       As you can imagine, apartments for sale and the ones for rent have a really different characteristics,
       with the main one being the price. Here we dive into the main features of the apartments for rent. 
@@ -149,7 +149,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
    ![rent_feature_import](https://user-images.githubusercontent.com/80376071/115736642-cf4cbc80-a361-11eb-925f-90f0dc92187c.PNG)
 
 
-  3-	"Saleable Loft's Location"
+  C-	"Saleable Loft's Location"
       
       The idea here is the same from the above topic, but the main point here is to figure it out the main differences
       between the apartments for sale and apartments for rent. Sales apartments have their own feature characteristics
@@ -178,7 +178,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
    ![image](https://user-images.githubusercontent.com/80376071/115785940-89f6b200-a396-11eb-8e8e-6a1f8145016e.png)
 
   
-  4-	"FINAL"
+  D-	"FINAL"
       
       On this short and final topic we just get the overview about the potencial gain in Reais (local money) that each type of 
       property could be owned by Loft in the next five years.
