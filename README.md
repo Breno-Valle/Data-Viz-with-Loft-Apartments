@@ -1,6 +1,7 @@
 # Data-Viz-with-Loft-Apartments
 Data visualization from São Paulo Loft Properties (Housing Market)  
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1-IDEA OF THE PROJECT
   
@@ -18,6 +19,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
   So let's take a look on how we could answer those issues with data visualization
   (using python)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2-ABOUT THE DATASETS
 
@@ -45,6 +47,7 @@ Data visualization from São Paulo Loft Properties (Housing Market)
   who extract São Paulo public data from the São Paulo City Hall website.
   He did a great job.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3-ABOUT THE PROJECT
  
@@ -185,10 +188,17 @@ Data visualization from São Paulo Loft Properties (Housing Market)
 
    ![image](https://user-images.githubusercontent.com/80376071/115746188-81888200-a36a-11eb-8a81-ffd6ede74544.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 4- Final Thoughts:
 
    This project can provide a benefit the to business with a better understanding of the Loft situation in São Paulo and providing insights to the future steps of the company.
    Of course there is a lot of good explorations that could be done and an infinity of ideas that could come from it.
    If you get interested by this dataset, project or ideas contact me, i will be glad to help you, and feel free to use all the notebook if you want.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
+
+All you need to do is copy/paste the notebook URL on it.
 
