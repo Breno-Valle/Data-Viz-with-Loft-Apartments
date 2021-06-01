@@ -3,6 +3,12 @@ Data visualization from São Paulo Loft Properties (Housing Market)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
+
+All you need to do is copy/paste the notebook URL on it.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1-IDEA OF THE PROJECT
   
   Loft is a digital plataform that uses tecnology to simplify the 
@@ -198,7 +204,4 @@ Data visualization from São Paulo Loft Properties (Housing Market)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
-
-All you need to do is copy/paste the notebook URL on it.
 
